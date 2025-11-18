@@ -75,8 +75,6 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
----
-
 ## Product Owner
 
 ### Role Summary
